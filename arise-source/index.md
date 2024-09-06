@@ -12,7 +12,7 @@ content_header:: "false"
 rss_hide:: "true"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
-# Welcome to Moon's home
+# Welcome to Luna's home
 Hi, I am Luna "lunax" Świątek and welcome to my show.
 I use some variations of above nickname like "mlunax" or "lun4x" too.
 
