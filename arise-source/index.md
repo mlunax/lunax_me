@@ -4,7 +4,6 @@ Title:: "Bash Static Site Generator"
 Author:: "Luna Świątek"
 Description:: "Luna's homepage"
 Language:: "en"
-Thumbnail:: "arise-icon.png"
 Published Date:: "2024-09-06"
 Modified Date:: "2024-09-06"
 
