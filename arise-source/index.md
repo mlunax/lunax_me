@@ -1,7 +1,7 @@
 <!-- BEGIN ARISE ------------------------------
 Title:: "Bash Static Site Generator"
 
-Author:: "Luna Świątek"
+Author:: "Luna"
 Description:: "Luna's homepage"
 Language:: "en"
 Published Date:: "2024-09-06"
@@ -12,6 +12,6 @@ rss_hide:: "true"
 ---- END ARISE \\ DO NOT MODIFY THIS LINE ---->
 
 # Welcome to Luna's home
-Hi, I am Luna "lunax" Świątek and welcome to my show.
+Hi, I am Luna "lunax" and welcome to my show.
 I use some variations of above nickname like "mlunax" or "lun4x" too.
 
