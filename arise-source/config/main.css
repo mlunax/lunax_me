@@ -43,6 +43,18 @@ code {
 		font-family:monospace;
 }
 
+bcode {
+    display: block;
+    background-color: #282828;
+    color: #ccc;
+    width: 100%;
+    padding: 8px 0px 10px 15px;
+    margin: 10px 0;
+    /*white-space: pre;*/
+    box-shadow: 6px 6px #000;
+    overflow-x: auto;
+}
+
 pre {
         overflow-x: auto;
         white-space: pre-wrap;
