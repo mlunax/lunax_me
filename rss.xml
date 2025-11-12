@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
+  <channel>
+    <title>mlunax</title>
+    <description>Luna&#39;s homepage</description>
+    <link>https://lunax.me</link>
+    <language>en</language>
+    <generator>Arise</generator>
+    <image>
+      <url>https://lunax.me/config/favicon/favicon.ico</url>
+      <title>mlunax</title>
+      <link>https://lunax.me</link>
+    </image>
+    <atom:link href="https://lunax.me/rss.xml" rel="self" type="application/rss+xml"/>
+        <ttl>60</ttl>
+<lastBuildDate>Wed, 12 Nov 2025 12:00:04 +0000</lastBuildDate>
+</channel>
+</rss>
