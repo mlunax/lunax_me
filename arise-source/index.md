@@ -1,5 +1,5 @@
 <!-- BEGIN ARISE ------------------------------
-Title:: "Bash Static Site Generator"
+Title:: "lunax's about page"
 
 Author:: "Luna"
 Description:: "Luna's homepage"
