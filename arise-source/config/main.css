@@ -31,16 +31,12 @@ img {
 }
 
 code {
-        background-color:#293137;
-        border-radius:16px;
-        padding-left:30px;
-        padding-right:30px;
-        line-height:2em;
-
-        padding-top:1px;
-        padding-bottom:1px;
-        color:#65f85a;
-		font-family:monospace;
+    background-color: #293137;
+    border-radius: 10px;
+    padding: 1px 10px;
+    line-height: 2em;
+    color: #65f85a;
+    font-family: monospace;
 }
 
 bcode {
