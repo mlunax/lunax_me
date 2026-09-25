@@ -35,4 +35,3 @@ My socials:
 * https://github.com/mlunax  
 * https://anilist.co/user/mlunax  
 * https://trakt.tv/users/mlunax
-* https://listenbrainz.org/user/mlun4x/
