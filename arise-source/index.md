@@ -31,6 +31,7 @@ age -r age1zz7cvntz78hwqdmqaf8rw48n0c98s3sajs5gtz8wp6sv8tj5qdsqjmp0wv  < plain >
 My socials:  
 
 * email: luna@lunax.me  
+* [luna@lunax.me](mailto:luna@lunax.me)
 * https://codeberg.org/mlunax  
 * https://github.com/mlunax  
 * https://anilist.co/user/mlunax  
