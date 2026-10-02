@@ -26,11 +26,14 @@ If you need privacy use `age` please:
 age -r age1zz7cvntz78hwqdmqaf8rw48n0c98s3sajs5gtz8wp6sv8tj5qdsqjmp0wv  < plain > encrypted
 </bcode>
 
+Contact:
 
+* email: luna@lunax.me  
+* matrix: @lunax:blahaj.love 
+* irc: lunax @ libera.chat 
 
 My socials:  
 
-* email: luna@lunax.me  
 * https://codeberg.org/mlunax  
 * https://github.com/mlunax  
 * https://anilist.co/user/mlunax  
